@@ -6,11 +6,11 @@ This project is based on the analysis of the Indian Census 2011 dataset. Using M
 
 TOOLS AND TECHNOLOGIES
 
-MySQL Workbench: For data extraction and SQL querying.
+1. MySQL Workbench: For data extraction and SQL querying.
 
-SQL: For data manipulation and analysis.
+2. SQL: For data manipulation and analysis.
 
-Microsoft PowerPoint: For presenting the findings.
+3. Microsoft PowerPoint: For presenting the findings.
 
 KEY INSIGHTS
 
@@ -40,11 +40,11 @@ SUGGESTIONS AND RECOMMENDATIONS
 
 REPOSITORY CONTENTS
 
-SQL Queries: The SQL scripts used for data extraction and analysis.
+1. SQL Queries: The SQL scripts used for data extraction and analysis.
 
-PowerPoint Presentation: The final presentation summarizing the findings and recommendations.
+2. PowerPoint Presentation: The final presentation summarizing the findings and recommendations.
 
-Data Files: The dataset and any other relevant files used in the project.
+3. Data Files: The dataset and any other relevant files used in the project.
 
 CONCLUSION
 
@@ -52,8 +52,8 @@ This project provides a detailed analysis of the Indian Census 2011 dataset, off
 
 HOW TO USE
 
-Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
-Use MySQL Workbench to run the provided SQL queries.
+2. Use MySQL Workbench to run the provided SQL queries.
 
-Open the PowerPoint presentation to view the summarized insights and recommendations.
+3. Open the PowerPoint presentation to view the summarized insights and recommendations.
