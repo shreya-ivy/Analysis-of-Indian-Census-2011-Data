@@ -1,9 +1,11 @@
 # Analysis-of-Indian-Census-2011-Data
 
 PROJECT OVERVIEW
+
 This project is based on the analysis of the Indian Census 2011 dataset. Using MySQL Workbench and basic SQL tools, I have extracted significant insights related to the demographic and geographical features of India. The aim was to understand the correlation between population growth rate with literacy and sex ratio, which profoundly impacts the country's socio-economic aspects. The final presentation, prepared in PowerPoint, summarizes the findings and provides actionable suggestions to address issues such as gender bias, unemployment, and the urban-rural disparity.
 
 TOOLS AND TECHNOLOGIES
+
 MySQL Workbench: For data extraction and SQL querying.
 SQL: For data manipulation and analysis.
 Microsoft PowerPoint: For presenting the findings.
